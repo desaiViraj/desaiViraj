@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="">
+  <a href="linkedin.com/in/viraj-desai-756119120">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
@@ -20,3 +20,17 @@
 </h3>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+I am a Linux System Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Systems Engineer, having a zeal to write scripts and hunt down the sever issues. 
+
+- :seedling: Exploring new tools & technologies in the area of Infra automation.
+
+- :zap: 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/viraj-desai-756119120)
