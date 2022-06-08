@@ -31,9 +31,7 @@ I am a Linux System Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :seedling: Exploring new tools & technologies in the area of Infra automation.
 
-- :zap: 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-desai-756119120/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Viraj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-desai-756119120/)
 
 ---
 
